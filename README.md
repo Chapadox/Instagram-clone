@@ -22,7 +22,7 @@
 
 <p>Screenshots sobre o projeto</p>
 
-<img src="https://i.ibb.co/LCcc87N/UI.png" alt="Pagina Inicial">
+<img src="https://i.ibb.co/LCcc87N/UI.png" style="margin-left: auto;margin-right: auto;" alt="Pagina Inicial">
 
 ## Creator 🖌️
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
